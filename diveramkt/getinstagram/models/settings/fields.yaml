@@ -1,0 +1,6 @@
+fields:
+
+  cache:
+    span: left
+    label: Cache (in minutes)
+    default: 5

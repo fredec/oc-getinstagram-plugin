@@ -1,0 +1,6 @@
+1.0.0:
+    - First version
+1.0.1:
+    - Updated that the hash is optional in configuration.
+1.0.2:
+    - Fixed bug that added a hashtag that breaks the API call.
